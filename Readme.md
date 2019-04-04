@@ -1,4 +1,3 @@
-
 <!-- default file list -->
 *Files to look at*:
 
@@ -8,11 +7,12 @@
 * [IAuthenticationOAuthUser.cs](./CS/AuthenticationOwin.Module/IAuthenticationOAuthUser.cs) (VB: [IAuthenticationOAuthUser.vb](./VB/AuthenticationOwin.Module/IAuthenticationOAuthUser.vb))
 * [Global.asax.cs](./CS/AuthenticationOwin.Web/Global.asax.cs) (VB: [Global.asax.vb](./VB/AuthenticationOwin.Web/Global.asax.vb))
 * [LogonTemplateContent1.ascx](./CS/AuthenticationOwin.Web/LogonTemplateContent1.ascx) (VB: [LogonTemplateContent1.ascx](./VB/AuthenticationOwin.Web/LogonTemplateContent1.ascx))
-* [LogonTemplateContent1.ascx.cs](./CS/AuthenticationOwin.Web/LogonTemplateContent1.ascx.cs) (VB: [LogonTemplateContent1.ascx](./VB/AuthenticationOwin.Web/LogonTemplateContent1.ascx))
+* [LogonTemplateContent1.ascx.cs](./CS/AuthenticationOwin.Web/LogonTemplateContent1.ascx.cs) (VB: [LogonTemplateContent1.ascx.vb](./VB/AuthenticationOwin.Web/LogonTemplateContent1.ascx.vb))
 * [AuthenticationStandartWithOAuth.cs](./CS/AuthenticationOwin.Web/Security/AuthenticationStandartWithOAuth.cs) (VB: [AuthenticationStandartWithOAuth.vb](./VB/AuthenticationOwin.Web/Security/AuthenticationStandartWithOAuth.vb))
 * [Startup.cs](./CS/AuthenticationOwin.Web/Startup.cs) (VB: [Startup.vb](./VB/AuthenticationOwin.Web/Startup.vb))
 * [WebApplication.cs](./CS/AuthenticationOwin.Web/WebApplication.cs)
 <!-- default file list end -->
+
 # How to: Use Google, Facebook and Microsoft accounts in ASP.NET XAF applications (OAuth2 demo)
 
 
